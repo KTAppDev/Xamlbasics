@@ -1,0 +1,15 @@
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\bin\Debug\Xamlbasics.exe.config
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\bin\Debug\Xamlbasics.exe
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\bin\Debug\Xamlbasics.pdb
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\obj\Debug\Xamlbasics.csprojAssemblyReference.cache
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\obj\Debug\MainWindow.g.cs
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\obj\Debug\App.g.cs
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\obj\Debug\Xamlbasics_MarkupCompile.cache
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\obj\Debug\Xamlbasics_MarkupCompile.lref
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\obj\Debug\MainWindow.baml
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\obj\Debug\Xamlbasics.g.resources
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\obj\Debug\Xamlbasics.Properties.Resources.resources
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\obj\Debug\Xamlbasics.csproj.GenerateResource.cache
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\obj\Debug\Xamlbasics.csproj.CoreCompileInputs.cache
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\obj\Debug\Xamlbasics.exe
+C:\Users\KenDaBeatMaker\RiderProjects\Xamlbasics\Xamlbasics\obj\Debug\Xamlbasics.pdb
